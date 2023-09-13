@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169673883851",
+    "project_id": "tasks-dd19e",
+    "storage_bucket": "tasks-dd19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169673883851:android:329b0d8803a0ce5a99db4e",
+        "android_client_info": {
+          "package_name": "com.scheduleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGzUpVk118Bs2GTrXxH3wT4EAqgI9OIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
